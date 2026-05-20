@@ -23,7 +23,7 @@ dist-ssr
 *.sln
 *.sw?
 
-# Environment variables - NEVER commit these
+# Environment variables
 .env
 .env.local
 .env.production
